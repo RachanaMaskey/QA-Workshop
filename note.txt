@@ -1,0 +1,4 @@
+-headed is used to show the website
+-xpath from top to bottom[starts with single /]
+-xpath relative points only to the place where we want to test[starts with double //]
+https://demoqa.com/automation-practice-form
